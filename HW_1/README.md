@@ -9,3 +9,5 @@ Here are the steps to run the code:
 - Download the genebank file named "Sequence.gb"
 - Run `docker build -t <name> .`
 - Run `docker run <name>`
+
+## This project uses [biopython] (https://biopython.org)
