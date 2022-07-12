@@ -10,4 +10,4 @@ Here are the steps to run the code:
 - Run `docker build -t <name> .`
 - Run `docker run <name>`
 
-## This project uses [Biopython library] (https://biopython.org)
+## This project uses [Biopython library](https://biopython.org)
